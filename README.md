@@ -15,24 +15,24 @@ One major motivating for me wanting to work on such a project is that My wife an
 
 ### Data Sources
 
-[Housing Data - Zillow Research]
+[Housing Data - Zillow Research] (https://www.zillow.com/research/data/)
 
-[Income Data: S1902: Census Bureau Table]
+[Income Data: S1902: Census Bureau Table] (https://data.census.gov/table)
 
 Database has information for the entire United States:  [Cost of Living Database (CLD) - Federal Reserve Bank of
-Atlanta (atlantafed.org)]
+Atlanta] (https://www.atlantafed.org/economic-mobility-and-resilience/advancing-careers-for-low-income-families/cost-of-living-database)
 
-Atlanta Crime Data: [Crime Data Downloads | Atlanta Police Department] (atlantapd.org)
+Atlanta Crime Data: [Crime Data Downloads | Atlanta Police Department] (https://www.atlantapd.org/i-want-to/crime-data-downloads)
 
-Nashville Crime Data: [Metro Nashville Police Department Incidents | Nashville Open Data Portal]
+Nashville Crime Data: [Metro Nashville Police Department Incidents | Nashville Open Data Portal] (https://data.nashville.gov/Police/Metro-Nashville-Police-Department-Incidents/2u6v-ujjs)
 
-Austin Crime Data: [Crime Reports | Open Data | City of Austin Texas]
+Austin Crime Data: [Crime Reports | Open Data | City of Austin Texas](https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu)
 
-Nashville Unemployment: [Bureau of Labor Statistics Data] (bls.gov)
+Nashville Unemployment: [Bureau of Labor Statistics Data] (https://data.bls.gov/cgi-bin/surveymost)
 
-Atlanta Unemployment: [Bureau of Labor Statistics Data] (bls.gov)
+Atlanta Unemployment: [Bureau of Labor Statistics Data] (https://data.bls.gov/cgi-bin/surveymost)
 
-Austin Unemployment: [Bureau of Labor Statistics Data] (bls.gov)
+Austin Unemployment: [Bureau of Labor Statistics Data] (https://data.bls.gov/cgi-bin/surveymost)
 
 ### Technology Tools
 
