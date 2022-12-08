@@ -12,11 +12,13 @@ One major motivating for me wanting to work on such a project is that My wife an
 
 1. Overall comparison between real estate markets in each city. For this question, I will be examining inventory counts in comparison with sales counts. I will also be presenting data for average home values for 1 to 5 bedroom properties. Finally, I will be touching on forecasting for this coming year.
 
-2. In this question, I will be diving into comparisons between cost of living and annual average salaries for each city.
+2. In this question, I will be diving into comparisons between average monthly mortgage payments 1 to 5 bedroom properties and monthly average salaries for each city.
 
-3. In conjunction with the previous question, I will now be analyzing unemployment rates for each city.
+3. At this point, I will be presenting some economic statistics including gross domestic product and price parities for basic necessities such as housing, utilities and goods which include food, clothing, medical expenses, et cetera between cities.
 
-4. Finally, I will be examining crime rates in order to determine which of these cities is theoretically the safest.
+4. Now, I will now be analyzing unemployment rates for each city.
+
+5. Finally, I will be examining crime rates in order to determine which of these cities is theoretically the safest.
 
 
 ### Data Sources
@@ -25,8 +27,11 @@ One major motivating for me wanting to work on such a project is that My wife an
 
 [Income Data: S1902: Census Bureau Table] (https://data.census.gov/table)
 
-Database has information for the entire United States:  [Cost of Living Database (CLD) - Federal Reserve Bank of
-Atlanta] (https://www.atlantafed.org/economic-mobility-and-resilience/advancing-careers-for-low-income-families/cost-of-living-database)
+[Price Parity for each city](https://apps.bea.gov/iTable/?reqid=70&step=1&acrdn=8#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyNCwyOSwyNSwzMSwyNiwyNywzMF0sImRhdGEiOltbIlRhYmxlSWQiLCIxMDQiXSxbIkNsYXNzaWZpY2F0aW9uIiwiTm9uLUluZHVzdHJ5Il0sWyJNYWpvcl9BcmVhIiwiNSJdLFsiU3RhdGUiLFsiNSJdXSxbIkFyZWEiLFsiMTIwNjAiLCIxMjQyMCIsIjM0OTgwIl1dLFsiU3RhdGlzdGljIixbIjIiLCIzIiwiNCJdXSxbIlVuaXRfb2ZfbWVhc3VyZSIsIkxldmVscyJdLFsiWWVhciIsWyIyMDIwIiwiMjAxOSIsIjIwMTgiLCIyMDE3Il1dLFsiWWVhckJlZ2luIiwiLTEiXSxbIlllYXJfRW5kIiwiLTEiXV19)
+
+[Regional Price Parities Information] (https://www.bea.gov/system/files/papers/WP2014-8.pdf)
+
+[Gross Domestic Product Data] (https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas)
 
 Atlanta Crime Data: [Crime Data Downloads | Atlanta Police Department] (https://www.atlantapd.org/i-want-to/crime-data-downloads)
 
