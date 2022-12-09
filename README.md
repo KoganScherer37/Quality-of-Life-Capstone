@@ -1,6 +1,6 @@
 # Quality-of-Life-Capstone
 
-During this project, I intend to look into three major cities in the Southern United States including Nashville, TN, Atlanta, GA and Austin, TX and determine which of these cities has the best chance of having a high quality of life. The parameters I will be looking into are the real estate markets, cost of living, average salary, unemployment rates and crime rates from 2018 to present.
+During this project, I intend to look into three major cities in the Southern United States including Nashville, TN, Atlanta, GA and Austin, TX and determine which of these cities has the best chance of having a high quality of life. The parameters I will be looking into are the real estate markets, cost of living index, regional price parity, gross domestic product, average salary, unemployment rates and crime rates from 2018 to present.
 
 
 ### Motivation
@@ -14,7 +14,7 @@ One major motivating for me wanting to work on such a project is that My wife an
 
 2. In this question, I will be diving into comparisons between average monthly mortgage payments 1 to 5 bedroom properties and monthly average salaries for each city.
 
-3. At this point, I will be presenting some economic statistics including gross domestic product and price parities for basic necessities such as housing, utilities and goods which include food, clothing, medical expenses, et cetera between cities.
+3. At this point, I will be presenting some economic statistics including, cost of living index, gross domestic product and price parities for basic necessities such as housing, utilities and goods which include food, clothing, medical expenses, et cetera between cities.
 
 4. Now, I will now be analyzing unemployment rates for each city.
 
@@ -45,6 +45,12 @@ Atlanta Unemployment: [Bureau of Labor Statistics Data] (https://data.bls.gov/cg
 
 Austin Unemployment: [Bureau of Labor Statistics Data] (https://data.bls.gov/cgi-bin/surveymost)
 
+Cost of Living Scrape: [2018](https://www.numbeo.com/cost-of-living/region_rankings.jsp?title=2018&region=021)
+                       [2019](https://www.numbeo.com/cost-of-living/region_rankings.jsp?title=2019&region=021)
+                       [2020](https://www.numbeo.com/cost-of-living/region_rankings.jsp?title=2020&region=021)
+                       [2021](https://www.numbeo.com/cost-of-living/region_rankings.jsp?title=2021&region=021)
+                       [2022](https://www.numbeo.com/cost-of-living/region_rankings.jsp?title=2022&region=021)
+
 ### Technology Tools
 
 - Python
@@ -54,6 +60,12 @@ Austin Unemployment: [Bureau of Labor Statistics Data] (https://data.bls.gov/cgi
    - Pandas
 
    - Datetime
+
+   - Beautiful Soup
+
+   - HTML
+
+   - Requests
 
 - Tableau
 
