@@ -33,17 +33,17 @@ One major motivating for me wanting to work on such a project is that My wife an
 
 [Gross Domestic Product Data](https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas)
 
-Atlanta Crime Data: [Crime Data Downloads | Atlanta Police Department](https://www.atlantapd.org/i-want-to/crime-data-downloads)
+[Crime Data Downloads | Atlanta Police Department](https://www.atlantapd.org/i-want-to/crime-data-downloads)
 
-Nashville Crime Data: [Metro Nashville Police Department Incidents | Nashville Open Data Portal](https://data.nashville.gov/Police/Metro-Nashville-Police-Department-Incidents/2u6v-ujjs)
+[Metro Nashville Police Department Incidents | Nashville Open Data Portal](https://data.nashville.gov/Police/Metro-Nashville-Police-Department-Incidents/2u6v-ujjs)
 
-Austin Crime Data: [Crime Reports | Open Data | City of Austin Texas](https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu)
+[Crime Reports | Open Data | City of Austin Texas](https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu)
 
-Nashville Unemployment: [Bureau of Labor Statistics Data](https://data.bls.gov/cgi-bin/surveymost)
+[Nashville Labor Statistics Data](https://data.bls.gov/cgi-bin/surveymost)
 
-Atlanta Unemployment: [Bureau of Labor Statistics Data](https://data.bls.gov/cgi-bin/surveymost)
+[Atlanta Labor Statistics Data](https://data.bls.gov/cgi-bin/surveymost)
 
-Austin Unemployment: [Bureau of Labor Statistics Data](https://data.bls.gov/cgi-bin/surveymost)
+[Austin Labor Statistics Data](https://data.bls.gov/cgi-bin/surveymost)
 
 Cost of Living Scrape: [2018](https://www.numbeo.com/cost-of-living/region_rankings.jsp?title=2018&region=021)
                        [2019](https://www.numbeo.com/cost-of-living/region_rankings.jsp?title=2019&region=021)
