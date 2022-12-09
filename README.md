@@ -69,6 +69,8 @@ Cost of Living Scrape: [2018](https://www.numbeo.com/cost-of-living/region_ranki
 
 - Tableau
 
+   - Dashboards
+
    - Tableau Story
 
 ### Process
