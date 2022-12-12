@@ -25,6 +25,8 @@ One major motivating for me wanting to work on such a project is that My wife an
 
 [Housing Data - Zillow Research](https://www.zillow.com/research/data/)
 
+[Home Buyer Information Catalog](https://cdn.nar.realtor/sites/default/files/documents/2022-home-buyers-and-sellers-generational-trends-03-23-2022.pdf)
+
 [Income Data: S1902: Census Bureau Table](https://data.census.gov/table)
 
 [Price Parity for each city](https://apps.bea.gov/iTable/?reqid=70&step=1&acrdn=8#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyNCwyOSwyNSwzMSwyNiwyNywzMF0sImRhdGEiOltbIlRhYmxlSWQiLCIxMDQiXSxbIkNsYXNzaWZpY2F0aW9uIiwiTm9uLUluZHVzdHJ5Il0sWyJNYWpvcl9BcmVhIiwiNSJdLFsiU3RhdGUiLFsiNSJdXSxbIkFyZWEiLFsiMTIwNjAiLCIxMjQyMCIsIjM0OTgwIl1dLFsiU3RhdGlzdGljIixbIjIiLCIzIiwiNCJdXSxbIlVuaXRfb2ZfbWVhc3VyZSIsIkxldmVscyJdLFsiWWVhciIsWyIyMDIwIiwiMjAxOSIsIjIwMTgiLCIyMDE3Il1dLFsiWWVhckJlZ2luIiwiLTEiXSxbIlllYXJfRW5kIiwiLTEiXV19)
@@ -33,7 +35,7 @@ One major motivating for me wanting to work on such a project is that My wife an
 
 [Gross Domestic Product Data](https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas)
 
-[Crime Data Downloads | Atlanta Police Department](https://www.atlantapd.org/i-want-to/crime-data-downloads)
+[Crime Data Downloads | Atlanta Police Department](https://sharefulton.fultoncountyga.gov/Public-Safety/City-of-Atlanta-Crime-Incidents/9w3w-ynjw)
 
 [Metro Nashville Police Department Incidents | Nashville Open Data Portal](https://data.nashville.gov/Police/Metro-Nashville-Police-Department-Incidents/2u6v-ujjs)
 
