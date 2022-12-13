@@ -1,6 +1,6 @@
 # Quality-of-Life-Capstone
 
-During this project, I intend to look into three major cities in the Southern United States including Nashville, TN, Atlanta, GA and Austin, TX and determine which of these cities has the best chance of having a high quality of life. The parameters I will be looking into are the real estate markets, cost of living index, regional price parity, gross domestic product, average salary, unemployment rates and crime rates from 2018 to present.
+During this project, I intend to look into three major cities in the Southern United States including Nashville, TN, Atlanta, GA and Austin, TX and determine which of these cities has the best chance of having a high quality of life. The parameters I will be looking into are the real estate markets, cost of living index, regional price parity, gross domestic product, average salary, unemployment rates from 2018 to present and crime rates from 2020 to present.
 
 
 ### Motivation
@@ -18,7 +18,7 @@ One major motivating for me wanting to work on such a project is that My wife an
 
 4. Now, I will now be analyzing unemployment rates for each city.
 
-5. Finally, I will be examining crime rates in order to determine which of these cities is theoretically the safest.
+5. Finally, I will be examining crime rates in order to determine which of these cities is statistically the safest.
 
 
 ### Data Sources
@@ -40,6 +40,14 @@ One major motivating for me wanting to work on such a project is that My wife an
 [Metro Nashville Police Department Incidents | Nashville Open Data Portal](https://data.nashville.gov/Police/Metro-Nashville-Police-Department-Incidents/2u6v-ujjs)
 
 [Crime Reports | Open Data | City of Austin Texas](https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu)
+
+[Crime Rates Table](https://en.wikipedia.org/wiki/List_of_United_States_cities_by_crime_rate#:~:text=Crime%20rates%20%20%20%20State%20%20,%20%209.12%20%2011%20more%20rows%20)
+
+[Crime Rate Index 2020](https://www.numbeo.com/crime/region_rankings.jsp?title=2020-mid&region=021)
+
+[Crime Rate Index 2021](https://www.numbeo.com/crime/region_rankings.jsp?title=2021-mid&region=021)
+
+[Crime Rate Index 2022](https://www.numbeo.com/crime/region_rankings.jsp?title=2022-mid&region=021)
 
 [Nashville Labor Statistics Data](https://data.bls.gov/cgi-bin/surveymost)
 
