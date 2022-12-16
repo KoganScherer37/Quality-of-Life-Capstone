@@ -1,6 +1,6 @@
 # Quality-of-Life-Capstone
 
-During this project, I intend to look into three major cities in the Southern United States including Nashville, TN, Atlanta, GA and Austin, TX and determine which of these cities has the best chance of having a high quality of life. The parameters I will be looking into are the real estate markets, cost of living index, gross domestic product, average salary, unemployment rates from 2018 to present and crime rates from 2020 to present.
+During this project, I intend to look into three major cities in the Southern United States including Nashville, TN, Atlanta, GA and Austin, TX and determine which of these cities has the best chance of having a high quality of life. The parameters I will be looking into are the real estate markets, cost of living index, gross domestic product, average salary, unemployment rates and crime rates.
 
 
 ### Motivation
@@ -28,8 +28,6 @@ One major motivating for me wanting to work on such a project is that My wife an
 [Home Buyer Information Catalog](https://cdn.nar.realtor/sites/default/files/documents/2022-home-buyers-and-sellers-generational-trends-03-23-2022.pdf)
 
 [Income Data: S1902: Census Bureau Table](https://data.census.gov/table)
-
-[Price Parity for each city](https://apps.bea.gov/iTable/?reqid=70&step=1&acrdn=8#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyNCwyOSwyNSwzMSwyNiwyNywzMF0sImRhdGEiOltbIlRhYmxlSWQiLCIxMDQiXSxbIkNsYXNzaWZpY2F0aW9uIiwiTm9uLUluZHVzdHJ5Il0sWyJNYWpvcl9BcmVhIiwiNSJdLFsiU3RhdGUiLFsiNSJdXSxbIkFyZWEiLFsiMTIwNjAiLCIxMjQyMCIsIjM0OTgwIl1dLFsiU3RhdGlzdGljIixbIjIiLCIzIiwiNCJdXSxbIlVuaXRfb2ZfbWVhc3VyZSIsIkxldmVscyJdLFsiWWVhciIsWyIyMDIwIiwiMjAxOSIsIjIwMTgiLCIyMDE3Il1dLFsiWWVhckJlZ2luIiwiLTEiXSxbIlllYXJfRW5kIiwiLTEiXV19)
 
 [Regional Price Parities Information](https://www.bea.gov/system/files/papers/WP2014-8.pdf)
 
